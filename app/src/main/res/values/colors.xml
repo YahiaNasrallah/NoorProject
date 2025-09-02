@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="txt_add_color">#FF000000</color>
+
+
+
+    <color name="Act_background">#A3AD6E</color>
+    <color name="text_background">#F8F4E1</color>
+    <color name="Titele_background">#436850</color>
+    <color name="second_titele_background">#FFD54F</color>
+    <color name="button_background">#8D6E63</color>
+
+
+
+    <!-- colors.xml -->
+    <color name="text_secondary">#F8F4E1</color>
+    <color name="endColor">#AF8F6F</color>
+    <color name="centerColor">#74512D</color>
+    <color name="startColor">#543310</color>
+
+
+
+
+</resources>
